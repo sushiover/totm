@@ -1,3 +1,3 @@
-# slope fullscreen
+# tomb of the mask
 
-this is just slope but the entire page is the game
+tomb of the mask
